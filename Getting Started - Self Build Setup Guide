@@ -1,0 +1,156 @@
+
+````markdown
+# ⚙️ Getting Started with Nova
+
+### *Bringing Nova to life — step by step.*
+
+---
+
+## 🧩 Before You Begin
+
+To run Nova, you’ll need:
+
+- A compatible system (Jetson / Linux-based machine)
+- Basic familiarity with terminal commands
+- Internet connection (for initial setup only)
+
+---
+
+## 📦 Step 1 — Clone the Repository
+
+```bash
+git clone https://github.com/your-repo/nova.git
+cd nova
+````
+
+---
+
+## 🔧 Step 2 — Install Dependencies
+
+```bash
+bash install.sh
+```
+
+This will:
+
+* Install required system packages
+* Set up Python dependencies
+* Prepare Nova’s runtime environment
+
+---
+
+## ⚙️ Step 3 — Configure Nova
+
+Before running Nova, check:
+
+* 🎙️ Audio input (microphone)
+* 🔊 Audio output (speaker)
+* 📁 Device paths and permissions
+
+Configuration files can be found in:
+
+```
+/config
+```
+
+---
+
+## ▶️ Step 4 — Run Nova
+
+```bash
+python main.py
+```
+
+---
+
+## 👁️ What to Expect
+
+During startup:
+
+* Systems initialise
+* Audio becomes active
+* Nova begins listening
+
+You are now interacting with a live system.
+
+---
+
+## 🧪 First Interaction
+
+Try something simple:
+
+> “Hello Nova”
+
+Observe:
+
+* Response timing
+* Voice output
+* Subtle motion behaviour
+
+---
+
+## 🛠️ Troubleshooting
+
+If something doesn’t work:
+
+* ✅ Check audio devices are correctly set
+* ✅ Ensure dependencies installed successfully
+* ✅ Restart the system
+
+If needed, review logs in:
+
+```
+/logs
+```
+
+---
+
+## 🔄 Next Steps
+
+Once Nova is running:
+
+* 🎙️ Switch or customise voices
+* 🧠 Explore memory systems
+* 🎛️ Adjust motion profiles
+* 🔌 Extend with custom modules
+
+---
+
+## 🧭 Guidance
+
+Nova is designed to be explored.
+
+Take your time.
+Observe behaviour.
+Refine interaction.
+
+---
+
+## 🪶 Closing
+
+Nova doesn’t just run.
+
+It **operates**.
+
+And with each interaction, it becomes something more.
+
+````
+
+---
+
+# 🎨 Optional Enhancements (Highly Recommended)
+
+To elevate this to **Kickstarter-level polish on GitHub**, add:
+
+### 📁 `/assets/`
+- `nova-banner.jpg` (your cinematic hero image)
+- UI illustrations
+- diagrams
+
+---
+
+```markdown
+![Status](https://img.shields.io/badge/status-active-gold)
+![Platform](https://img.shields.io/badge/platform-Jetson%20%7C%20Linux-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+````
