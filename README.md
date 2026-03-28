@@ -62,7 +62,7 @@ It *is* presence.
 
 Ready to run Nova locally?
 
-👉 See the **[Getting Started Guide](./GETTING_STARTED.md)**
+👉 See the **[Getting Started Guide]**
 
 ---
 
