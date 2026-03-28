@@ -1,8 +1,6 @@
 # 🧠 Meet Nova  
 ### *Embodied intelligence that lives with you.*
 
-![Nova Banner](./assets/nova-banner.jpg)
-
 ---
 
 ## ✨ What is Nova?
