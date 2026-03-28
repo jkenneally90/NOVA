@@ -1,5 +1,3 @@
-
-````markdown
 # ⚙️ Getting Started with Nova
 
 ### *Bringing Nova to life — step by step.*
@@ -135,19 +133,6 @@ It **operates**.
 And with each interaction, it becomes something more.
 
 ````
-
----
-
-# 🎨 Optional Enhancements (Highly Recommended)
-
-To elevate this to **Kickstarter-level polish on GitHub**, add:
-
-### 📁 `/assets/`
-- `nova-banner.jpg` (your cinematic hero image)
-- UI illustrations
-- diagrams
-
----
 
 ```markdown
 ![Status](https://img.shields.io/badge/status-active-gold)
