@@ -102,8 +102,8 @@ If you believe in what Nova represents:
 
 ---
 
-## 🪶 Closing
-
 A simple observation became a new kind of system.
 
 **Welcome to Nova.**
+
+Stay tuned for further details!
